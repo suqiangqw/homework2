@@ -1,0 +1,34 @@
+运行work2.m文件结果
+a = 
+
+    'My'
+    'name'
+    'is'
+    'suqiang'
+    'I'
+    'come'
+    'from'
+    'hubei'
+    'welcome'
+    'to'
+    'Matlab'
+
+单词数
+    11
+
+句子数
+     3
+
+字符数
+    44
+
+运行work2add.m文件
+
+总行数
+    28
+
+代码行数
+    25
+
+空行数
+     3
